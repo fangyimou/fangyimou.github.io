@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prototype on MySite</title>
+    <link>https://fangyimou.github.io/techs/prototype/</link>
+    <description>Recent content in Prototype on MySite</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Fangyi MOU</copyright>
+    <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://fangyimou.github.io/techs/prototype/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scalable and Efficient Load Balancing and Task Scheduling for Large Language Model Inference Deployment on Kubernetes</title>
+      <link>https://fangyimou.github.io/portfolio/doing-proj/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://fangyimou.github.io/portfolio/doing-proj/</guid>
+      <description>In recent years, the scale of large language models (LLMs) has expanded exponentially, transitioning from millions of parameters to billions. This growth has been accompanied by a significant shift towards multi-modal learning, which enhances the ability of LLMs to understand and generate various forms of data, including text, images, audio, and video. While these advancements improve the quality of outputs of LLMs, they also introduce considerable delays during the inference stage.</description>
+    </item>
+  </channel>
+</rss>

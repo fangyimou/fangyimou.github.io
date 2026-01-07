@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simulator on MySite</title>
+    <link>https://fangyimou.github.io/techs/simulator/</link>
+    <description>Recent content in Simulator on MySite</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Fangyi MOU</copyright>
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://fangyimou.github.io/techs/simulator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adaptive Digital Twin Migration in Vehicular Edge Computing and Networks (SCI Q1, IF-6.1)</title>
+      <link>https://fangyimou.github.io/portfolio/tvt-2024-proj/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://fangyimou.github.io/portfolio/tvt-2024-proj/</guid>
+      <description>[4]. Fangyi Mou, Jiong Lou, Zhiqing Tang, Weijia Jia, Yan Zhang, and Wei Zhao. Adaptive Digital Twin Migration in Vehicular Edge Computing and Networks. IEEE Transactions on Vehicular Technology (TVT). (SCI Q1, IF: 6.1)&#xA;Abstract —The surge in mobile vehicles and data traffic in Vehicular Edge Computing and Networks (VECONs) requires innovative approaches for low latency, stable connectivity, and efficient resource usage in fast-moving vehicles. Existing studies have identified that utilizing digital twins (DTs) can effectively improve service quality in VECONs.</description>
+    </item>
+    <item>
+      <title>Joint Resource Overbooking and Container Scheduling in Edge Computing (TMC, CCF-A)</title>
+      <link>https://fangyimou.github.io/portfolio/tmc-2024-proj/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://fangyimou.github.io/portfolio/tmc-2024-proj/</guid>
+      <description>[3]. Zhiqing Tang, Fangyi Mou, Jiong Lou, Weijia Jia, Yuan Wu, and Wei Zhao, &amp;ldquo;Joint Resource Overbooking and Container Scheduling in Edge Computing,&amp;rdquo; in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2024.3386936. (CCF-A, First student author)&#xA;Abstract — Containers have gained popularity in Edge Computing (EC) networks due to their lightweight and flexible deployment advantage. In resource-constrained EC environments, overbooking container resources can substantially improve resource utilization. However, existing work overlooks the complex interplay between resource provisioning and container scheduling, which may result in performance degradation or inefficient resource utilization due to highly dynamic resource heterogeneity in EC.</description>
+    </item>
+    <item>
+      <title>Multi-User Layer-Aware Online Container Migration in Edge-Assisted Vehicular Networks (TON, CCF-A)</title>
+      <link>https://fangyimou.github.io/portfolio/ton-2024-proj/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://fangyimou.github.io/portfolio/ton-2024-proj/</guid>
+      <description>[1]. Zhiqing Tang, Fangyi Mou#, Jiong Lou, Weijia Jia, Yuan Wu and Wei Zhao, &amp;ldquo;Multi-User Layer-Aware Online Container Migration in Edge-Assisted Vehicular Networks,&amp;rdquo; in IEEE/ACM Transactions on Networking, vol. 32, no. 2, pp. 1807-1822, April 2024. (CCF-A, Co-first author)&#xA;Abstract — In edge-assisted vehicular networks, containers are very suitable for deploying applications and providing services due to their lightweight and rapid deployment. To provide high-quality services, many existing studies show that the containers need to be migrated to follow the vehicles’ trajectory.</description>
+    </item>
+  </channel>
+</rss>
